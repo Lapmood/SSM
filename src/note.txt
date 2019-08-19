@@ -1,0 +1,36 @@
+SSM整合: Spring + SpringMVC + Mybatis
+
+  基础环境搭建
+    1.引入依赖
+        Spring+SpringMVC:  spring-webmvc
+        Mybatis :
+        Mybatis+Spring整合包   mybatis-spring
+        切面   : aspectjweaver   aspectjrt
+        事务   : spring-jdbc
+        数据库连接
+        日志
+        数据连接池(C3P0)
+        JSTL
+        Junit
+
+  配置
+    1.SpringMVC
+        a.前端控制器
+        b.开启注解
+        c.视图解析器
+        d.静态资源问题
+
+    2.Spring
+        a.数据源
+        b.事务管理
+        c.切面
+        d.mybatis整合
+
+    3.Mybatis
+        a.开启驼峰
+
+
+
+
+
+
